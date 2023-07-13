@@ -10,7 +10,10 @@ depth, flipper length, and body mass.
 included.
 
 ## 
+EDA task:
 - Handling missing data: Check for missing values in the dataset and decide on a strategy
 to handle them (e.g., imputation or removal).
 - Encoding categorical variables: Convert categorical variables like species, island, and
 sex into numerical representations that machine learning algorithms can process.
+- Feature scaling: Normalize or standardize numerical features to ensure that they have similar scales,
+which can improve the performance of certain algorithms.
