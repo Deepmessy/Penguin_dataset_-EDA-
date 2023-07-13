@@ -1,4 +1,4 @@
-# Penguin_dataset_-EDA-
+# Penguin_dataset_EDA
 
 ## 
 Dataset Overview:
